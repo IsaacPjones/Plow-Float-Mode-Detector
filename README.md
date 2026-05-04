@@ -88,9 +88,3 @@ Possible next steps include:
 - logging raw signal traces for easier future tuning
 
 ---
-
-## Project Status
-
-Prototype working.
-
-The Arduino can monitor the controller stream and drive an indicator output for float mode in standalone operation. The current sketch is the best working version found through iterative hardware testing and tuning.
