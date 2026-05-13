@@ -42,6 +42,16 @@ This project was built through real hardware testing, signal logging, and iterat
 The plow controller signal is connected to the RS-485 module input side.
 
 ---
+## Photos
+
+### Whole Setup
+<img src="Photos/IMG_2163.jpg" width="70%">
+
+### Closer look at breadboard
+<img src="Photos/IMG_2162.jpg" width="70%">
+
+
+---
 
 ## How It Works
 
